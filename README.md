@@ -2,7 +2,7 @@
 ## Usage
 * Clone the repository
 ```console
-git clone https://github.com/KhalfounMehdi/aicreator.git
+git clone https://github.com/microsoft/aicreator.git
 ```
 * Install dependencies
 ```console
